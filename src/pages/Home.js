@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom'
 
 
 
+
 function Home() {
   return (
    <React.Fragment>
@@ -564,24 +565,7 @@ function Home() {
   
     </div>
  
-    <script src="../../public/assests/js/jquery-1.10.2.js"></script>
-   
-    <script src="../../public/assests/js/bootstrap.min.js"></script>
-	 
   
-    <script src="../../public/assests/js/jquery.metisMenu.js"></script>
-   
-    <script src="../../public/assests/js/morris/raphael-2.1.0.min.js"></script>
-    <script src="../../public/assests/js/morris/morris.js"></script>
-	
-	
-	<script src="../../public/assests/js/easypiechart.js"></script>
-	<script src="../../public/assests/js/easypiechart-data.js"></script>
-	
-	 <script src="../../public/assests/js/Lightweight-Chart/jquery.chart.js"></script>
-	
-    <script src="../../public/assests/js/custom-scripts.js"></script>
-    {/* import Olodo from '../../public/assests/js/olodo' */}
 
    </React.Fragment>
   )

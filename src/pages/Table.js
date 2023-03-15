@@ -991,19 +991,7 @@ function Table() {
 
             </div>
 
-            <script src="../../public/assests/js/jquery-1.10.2.js"></script>
-
-            <script src="../../public/assests/js/bootstrap.min.js"></script>
-
-            <script src="../../public/assests/js/jquery.metisMenu.js"></script>
-
-            <script src="../../public/assests/js/dataTables/jquery.dataTables.js"></script>
-            <script src="../../public/assests/js/dataTables/dataTables.bootstrap.js"></script>
-
-
-            <script src="../../public/assests/js/custom-scripts.js"></script>
-
- {/* import Olodo from '../../public/assests/js/olodo' */}
+         
         </React.Fragment>
     )
 }
